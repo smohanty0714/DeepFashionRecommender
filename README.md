@@ -1,4 +1,4 @@
-# Fashion Recommendation
+# Deep Fashion Recommendation - Machine Learning Solution
 
 In this project, I created an end-to-end solution for large-scale image classification and visual recommendation on fashion images. More specifically, my model can learn the important regions in an image and generate diverse recommendations based on such semantic similarity.  
 
